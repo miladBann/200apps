@@ -1,0 +1,436 @@
+{
+    "lesson_number": 2,
+    "creator": "Samuel B",
+    "teacher": "David Shaoul",
+    "class_avg": 68,
+    "avarage_corrections": 1.7,
+    "total_students": 15,
+    "finished_the_class": 5,
+    "currently_in_class": 6,
+    "failed_the__Class": 2,
+    "skipped_the_class": 2,
+    "total_passed": 23,
+    "total_failed":8,
+    "tasks": [
+        {
+            "name": "Task 6",
+            "type": "closed Question"
+        }, {
+            "name": "Task 5",
+            "type": "content"
+        }, {
+            "name": "Task 4",
+            "type": "open Question"
+        }, {
+            "name": "Task 3",
+            "type": "content"
+        }, {
+            "name": "Task 2",
+            "type": "closed Question"
+        }, {
+            "name": "Task 1",
+            "type": "open Question"
+        }
+    ],
+    "students": [
+        {
+            "name": "milo bann",
+            "finished": 30,
+            "grade": 85,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                },{
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }, {
+            "name": "David sam",
+            "finished": 20,
+            "grade": 70,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                },{
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "mid",
+                    "grade": "3/5"
+                }, {
+                    "status": "unchecked",
+                    "grade": "none"
+                }
+            ]
+        }, {
+            "name": "oli oli",
+            "finished": 40,
+            "grade": 86,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "naji uso",
+            "finished": 50,
+            "grade": 88,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "mid",
+                    "grade": "3/5"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }, {
+            "name": "nadine usawa",
+            "finished": 55,
+            "grade": 90,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "mid",
+                    "grade": "3/5"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }, {
+            "name": "vera usawa",
+            "finished": 55,
+            "grade": 92,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "mid",
+                    "grade": "3/5"
+                }, {
+                    "status": "unchecked",
+                    "grade": "none"
+                }
+            ]
+        }, {
+            "name": "raed edwardo",
+            "finished": 70,
+            "grade": 98,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }, {
+            "name": "malek aroori",
+            "finished": 40,
+            "grade": 48,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "mid",
+                    "grade": "6/10"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "unchecked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "jack saleh",
+            "finished": 55,
+            "grade": 42,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "yosi cohen",
+            "finished": 60,
+            "grade": 60,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "unchecked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "edward shnider",
+            "finished": 30,
+            "grade": 25,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "mid",
+                    "grade": "3/5"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "alex backleh",
+            "finished": 70,
+            "grade": 70,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "mid",
+                    "grade": "3/5"
+                }, {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "unchecked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "fadi issa",
+            "finished": 55,
+            "grade": 58,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "unchecked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "samuel jado",
+            "finished": 33,
+            "grade": 32,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }
+        , {
+            "name": "andreh the giant",
+            "finished": 10,
+            "grade": 8,
+            "tasks": [
+                {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "empty",
+                    "grade": "none"
+                }, {
+                    "status": "ongoing",
+                    "grade": "none"
+                },
+                {
+                    "status": "failed",
+                    "grade": "1/5"
+                }, {
+                    "status": "perfect",
+                    "grade": "10/10"
+                }, {
+                    "status": "checked",
+                    "grade": "none"
+                }
+            ]
+        }
+    ]
+}
